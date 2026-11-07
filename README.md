@@ -76,10 +76,10 @@ agente-pixel/
 ├── AGENT.md                 definicao canonica do agente
 ├── .agent/agent.json        metadados legiveis por maquina
 ├── skills/
-│   └── sistema-de-design/SKILL.md
-│   └── componentes-e-estados/SKILL.md
-│   └── layout-responsivo/SKILL.md
-│   └── acessibilidade/SKILL.md
+│   ├── sistema-de-design/SKILL.md
+│   ├── componentes-e-estados/SKILL.md
+│   ├── layout-responsivo/SKILL.md
+│   ├── acessibilidade/SKILL.md
 │   └── revisao-de-interface/SKILL.md
 ├── install/README.md        instalacao nas 8 CLIs
 └── assets/portrait.png
