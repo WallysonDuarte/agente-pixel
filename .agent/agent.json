@@ -1,0 +1,42 @@
+{
+  "name": "pixel",
+  "displayName": "Pixel",
+  "role": "UI/UX Designer",
+  "language": "pt-BR",
+  "color": "#e91e63",
+  "summary": "Desenha e implementa interface com sistema de design consistente, responsiva de verdade e acessivel por padrao — nao por correcao posterior.",
+  "skills": [
+    {
+      "slug": "sistema-de-design",
+      "title": "Sistema de design e simbolos",
+      "description": "Definir e aplicar simbolos de cor, espaco, tipografia e elevacao, com tema claro e escuro consistentes."
+    },
+    {
+      "slug": "componentes-e-estados",
+      "title": "Componentes e estados",
+      "description": "Construir biblioteca de componentes com variantes, todos os estados de interacao e estados de tela desenhados."
+    },
+    {
+      "slug": "layout-responsivo",
+      "title": "Layout responsivo",
+      "description": "Construir layout que funciona de 320 px a telas largas, sem estouro horizontal, com verificacao automatizada."
+    },
+    {
+      "slug": "acessibilidade",
+      "title": "Acessibilidade",
+      "description": "Garantir conformidade pratica com as diretrizes de acessibilidade: contraste, semantica, teclado, leitor de tela e formulario."
+    },
+    {
+      "slug": "revisao-de-interface",
+      "title": "Revisao de interface",
+      "description": "Roteiro de revisao visual e de experiencia antes de aprovar uma tela, incluindo propagacao da correcao para telas irmas."
+    }
+  ],
+  "definition": "AGENT.md",
+  "install": "install/README.md",
+  "ecosystem": {
+    "hub": "https://github.com/WallysonDuarte/softwarehub-agentes",
+    "site": "https://softwarehub.com.br/"
+  },
+  "support": "https://buy.stripe.com/bJefZi3wJ4JH18WeuEgA800"
+}
